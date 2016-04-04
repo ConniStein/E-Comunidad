@@ -1,1 +1,149 @@
 /* Inserta tu codigo aqui */
+/*comienzo menú*/
+
+.menu-contenedor{
+	height: 250px;
+}
+
+.logo{
+	width: 220px;
+	height: 200px;
+	margin-left: 70px;
+	display: inline-block;
+}
+
+.menu-lista{
+	list-style: none;
+	display: inline-block;
+	margin-right:20px;
+	margin-left: 20px;
+	padding-right:10px;
+	margin-top: -60px;
+}
+
+/*fin menu*/
+
+/*comienzo banner*/
+.banner{
+	border:1px transparent;
+	max-width: 100%;
+}
+
+.parrafo-banner{
+	max-width: 100%;
+	padding: 50px;
+}
+
+/*fin banner*/
+
+/*comienzo sección "misión-visión"*/
+.mision-vision{
+	display: inline;
+}
+
+.mision{
+	border:1px transparent;
+
+}
+
+mision-caja{
+	width: 300px;
+	height: 300px;
+}
+
+.icono-mision{
+	margin-left: 50px;
+
+}
+
+.vision{
+	border:1px transparent;
+}
+/*fin sección "misión-visión"*/
+
+/*comienzo seccion "metodologia"*/
+.metodo{
+	max-width: 50%;
+	display: inline-block;
+}
+
+.fondo-verde{
+	background-image: url("img/fondo.jpg");
+	max-width: 50%;
+	display: inline-block;
+}
+/*fin sección "metodologia"*/
+
+/*comienzo sección "servicios"*/
+.contenedor-servicios{
+	border:1px solid transparent;
+	display: inline-block;
+	margin:20px;
+}
+
+.foto-servicios{
+	align:center;
+	margin-left: 110px;
+}
+
+.servicios{
+	display: inline-block;
+	border:1px solid transparent;
+	margin:15px;
+}
+
+.texto-servicios{
+	width: 350px;
+	height: 40px;
+}
+/*fin seccion "servicios"*/
+
+/*comienzo seccion "proyectos"*/
+
+.contenedor-verde{
+	padding: 20px;
+	position: absolute;
+	height: 800px;
+}
+
+.texto-proyecto{
+	margin: 20px 20px 20px 100px;
+}
+
+.foto-proyecto{
+	width: 550px;
+	height: 350px;
+	margin: 0px 20px 20px 100px;
+	display: block;
+	position: relative;
+}
+
+.parrafo-proyecto{
+	float: right;
+	border: 1px solid transparent;
+	display: block;
+	position: relative;
+	clear: both;
+	width: 40%;
+	height: 35%;
+	bottom:700px;
+}
+
+.parrafo-proyecto2{
+	float: right;
+	border: 1px solid transparent;
+	display: block;
+	position: relative;
+	clear: both;
+	width: 40%;
+	height: 35%;
+	bottom:550px;
+}
+/*fin seccion "proyectos"*/
+
+/*comienzo seccion "equipo"*/
+
+.contenedor-equipo{
+	border:1px solid transparent;
+	margin:2px;
+}
